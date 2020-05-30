@@ -1,0 +1,31 @@
+h1 {
+    color: brown;
+}
+.footer{
+   
+    display: flex;
+    justify-content:flex-end;
+}
+.header{
+    background-color: black ;
+    display:flex;
+    justify-content:space-evenly;
+
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+
+}
+.grid{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+p,h2{
+    text-align: center;
+    color: orangered;
+    background-color: rgb(23, 21, 129);
+}
+body{
+  
+    background-color:#bad61d;
+}
